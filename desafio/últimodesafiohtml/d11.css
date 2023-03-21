@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color: antiquewhite;
+}
+
+body {
+    background-color: rgb(182, 127, 255);
+}
+
+.videos {
+    margin-left: 390px;
+}
+
+.voltar {
+    margin-left: 666px
+}
+
+p {
+    margin-left: 600px;
+    color: white;
+    font-size: 16pt;
+}
+
+.imagens {
+    margin-left: 263px;
+}
